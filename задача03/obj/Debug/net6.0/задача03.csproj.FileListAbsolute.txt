@@ -1,0 +1,15 @@
+C:\Users\сергей\Desktop\CЕМ 2C#\задача03\bin\Debug\net6.0\задача03.exe
+C:\Users\сергей\Desktop\CЕМ 2C#\задача03\bin\Debug\net6.0\задача03.deps.json
+C:\Users\сергей\Desktop\CЕМ 2C#\задача03\bin\Debug\net6.0\задача03.runtimeconfig.json
+C:\Users\сергей\Desktop\CЕМ 2C#\задача03\bin\Debug\net6.0\задача03.dll
+C:\Users\сергей\Desktop\CЕМ 2C#\задача03\bin\Debug\net6.0\задача03.pdb
+C:\Users\сергей\Desktop\CЕМ 2C#\задача03\obj\Debug\net6.0\задача03.csproj.AssemblyReference.cache
+C:\Users\сергей\Desktop\CЕМ 2C#\задача03\obj\Debug\net6.0\задача03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\сергей\Desktop\CЕМ 2C#\задача03\obj\Debug\net6.0\задача03.AssemblyInfoInputs.cache
+C:\Users\сергей\Desktop\CЕМ 2C#\задача03\obj\Debug\net6.0\задача03.AssemblyInfo.cs
+C:\Users\сергей\Desktop\CЕМ 2C#\задача03\obj\Debug\net6.0\задача03.csproj.CoreCompileInputs.cache
+C:\Users\сергей\Desktop\CЕМ 2C#\задача03\obj\Debug\net6.0\задача03.dll
+C:\Users\сергей\Desktop\CЕМ 2C#\задача03\obj\Debug\net6.0\refint\задача03.dll
+C:\Users\сергей\Desktop\CЕМ 2C#\задача03\obj\Debug\net6.0\задача03.pdb
+C:\Users\сергей\Desktop\CЕМ 2C#\задача03\obj\Debug\net6.0\задача03.genruntimeconfig.cache
+C:\Users\сергей\Desktop\CЕМ 2C#\задача03\obj\Debug\net6.0\ref\задача03.dll
